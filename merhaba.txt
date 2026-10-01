@@ -11,3 +11,5 @@ GitHub'daki ve Mac'teki de€iﬂiklikleri birleﬂtirmeyi ö€rendim.
 Bugün GitHub'da ilk projemi yay›nlad›m.
 
 ‹kinci de€iﬂikli€i yapt›m
+
+Üçüncü de€iﬂiklik
