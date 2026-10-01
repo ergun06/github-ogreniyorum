@@ -1,3 +1,9 @@
-Merhaba GitHub
+Merhaba GitHub!
+
 Ben ErgŸn.
-Bilgisayarİmdan ilk GitHub projemi gšnderiyorum.
+
+Bu dosyayİ Mac bilgisayarİmda olußturdum.
+
+Bu dosyanİn GitHub'da da bir versiyonu vardİ.
+
+GitHub'daki ve Mac'teki deÛißiklikleri birleßtirmeyi šÛrendim.
